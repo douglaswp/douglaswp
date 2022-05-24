@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="display: inline_block">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglaswp&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
