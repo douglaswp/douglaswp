@@ -1,8 +1,13 @@
 <div align="center">
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglaswp&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ##
