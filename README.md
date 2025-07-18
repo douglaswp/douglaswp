@@ -1,7 +1,3 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=douglaswp&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-##
-
 <div>
   <a href="https://api.whatsapp.com/send?phone=5545999516971" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dougwp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
